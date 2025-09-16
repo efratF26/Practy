@@ -1,4 +1,4 @@
-import { test, expect } from '@test/test';
+import { test, expect } from '@playwright/test';
 
 test('basic test', async ({ page }) => {
   // נפתח אתר
